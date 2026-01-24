@@ -1,0 +1,6 @@
+[submodule "nuxt"]
+	path = nuxt
+	url = git@github.com:nazala-mafa/boilerplate-nuxt.git
+[submodule "laravel"]
+	path = laravel
+	url = git@github.com:nazala-mafa/boilerplate-laravel.git
